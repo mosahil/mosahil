@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mohammed Sahil
-- 💼 Software developer.
+- 💼 Full Stack Developer.
 - 📫 How to reach me sahilmohammed997@gmail.com
 
